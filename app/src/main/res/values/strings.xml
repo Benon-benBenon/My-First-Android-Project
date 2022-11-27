@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BENON</string>
+    <string name="services">Services</string>
+    <string name="manage_services">Manage services</string>
+    <string name="your_account_now">your account now</string>
+    <string name="add_a_premium_services_to">Add a premium services</string>
+</resources>
